@@ -1,6 +1,7 @@
 List Tugas Kelompok
 1.  HCI -> Web KEPO 2022
 2.  EtProf -> PPT dan Makalah Presentasi
+3.  Kommas -> Materi Diskusi StartUp Lanjutan
 
 List Tugas Individu
 1.  PPW dan Basdat Nyicil Project UAS
